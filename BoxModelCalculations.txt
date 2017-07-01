@@ -1,0 +1,15 @@
+Total Height:
+Height + Top Margin + Bottom Margin + Top Border + Bottom Border + Top Padding + Bottom Padding 
+150 + 20 +20 + 1 + 1 + 10 + 10 = 212px
+
+Total Width:
+Width + Left Margin + Right Margin + Left Border + Right Border + Left Padding + Right Padding
+400 + 20 + 20 + 1 + 1 + 10 + 10 = 462px
+
+Browser Calculated Height:
+Height + Top Border + Bottom Border + Top Padding + Bottom Padding 
+150 + 1 + 1 + 10 + 10 = 172px
+
+Browser Calculated Width
+Width + Left Border + Right Border + Left Padding + Right Padding
+400 + 1 + 1 + 10 + 10 = 422px
